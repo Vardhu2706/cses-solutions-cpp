@@ -1,1 +1,1 @@
-# CSES-solutions-cpp
+# Solutions to CSES.fi - CPP
